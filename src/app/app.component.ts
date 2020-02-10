@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'imooc-pinduoduo';
+  tabs = ['热门', '男装', '手机']
 }
